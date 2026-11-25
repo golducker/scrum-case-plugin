@@ -1,0 +1,12 @@
+{
+  "name": "scrum-case-local",
+  "owner": { "name": "golducker" },
+  "description": "Local marketplace for the scrum-case competition bundle.",
+  "plugins": [
+    {
+      "name": "scrum-case",
+      "source": "./plugins/scrum-case",
+      "description": "Agile/Scrum team case competition bundle: coordinator, MCQ drill, rubric-mapped skills, humanizer."
+    }
+  ]
+}
